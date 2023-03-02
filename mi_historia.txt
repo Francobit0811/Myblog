@@ -2,6 +2,6 @@ Hola mi nombre es José Francisco Pérez.
 
 Tengo 53 años y nací en Caracas el 08/11/1969.
 
-Estudie en la UNEXPO Caracas.
+Estoy en este momento haciendo el curso de git.
 
-Allí permanecí un tiempo de 6 años y medio.
+Llevo una semana.

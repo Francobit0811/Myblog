@@ -1,6 +1,22 @@
 body {
     text-align: center;
     font-family: Georgia;
-    color: blue;
-    background-color: greenyellow;
+    color: indigo;
+    background-color: khaki;
+    font-size: 25px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+#principal {
+    width: 75%;
+    padding: 2em;
+    text-align: left;
+    border: 5px solid snow;
+    margin: 10 auto;
+}
+
+#principal h1 {
+    font-size: 50px;
+    background-color: cyan;
 }

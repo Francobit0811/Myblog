@@ -30,6 +30,13 @@ body {
     padding: 0.5em; 
 }
 
+#footer {
+    background: darkgoldenrod;
+    color: silver;
+    text-align: center;
+    padding: 1em;
+}
+
 #slogan {
     font-weight: normal;
     font-size: 1.5em;
